@@ -1,5 +1,7 @@
 # scores
-Some flute scores typeset with lilypond
+Some flute scores typeset with lilypond.
+See http://lluritu.blogspot.com/ for some more details.
+The cover uses WebOMints fonts.
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
